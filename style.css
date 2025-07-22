@@ -1,0 +1,33 @@
+.section-title {
+  color: #0baf4f;
+}
+
+.whatsapp-title {
+  color: #0c23a8;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.highlighted {
+  /* text-decoration: underline dotted; */
+  text-decoration: solid;
+}
+
+#external-css {
+  font-size: medium;
+}
+
+.afl {
+  color: red;
+  font-size: 1.2em;
+}
+
+.pwl {
+  font-weight: bold;
+}
+
+ul.al {
+  list-style-type: square;
+  padding-left: 20px;
+}
